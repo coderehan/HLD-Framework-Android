@@ -42,6 +42,7 @@ Whenever the interviewer asks:
 > "Design an Android application for X"
 
 Follow this structure:
+
 Understand Requirements
 
 Define Functional Requirements
@@ -54,7 +55,7 @@ Explain Components
 
 Explain Data Flow
 
-Discuss Trade-offs & Improvements
+Discuss Trade-offs & Improvements (Optional)
 
 
 
@@ -332,6 +333,7 @@ After architecture, explain one important user journey.
 Example:
 
 User opens product page:
+
 User Action
 ↓
 UI
@@ -417,7 +419,8 @@ What are limitations?
 # 📝 HLD Interview Cheat Sheet
 
 Before answering any question remember:
-Problem
+
+      Problem
 
                ↓
 
