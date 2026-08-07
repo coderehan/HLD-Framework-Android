@@ -43,12 +43,19 @@ Whenever the interviewer asks:
 
 Follow this structure:
 Understand Requirements
+
 Define Functional Requirements
+
 Define Non Functional Requirements
+
 Draw HLD Architecture
+
 Explain Components
+
 Explain Data Flow
+
 Discuss Trade-offs & Improvements
+
 
 
 This framework works for:
@@ -211,7 +218,7 @@ The objective is:
 
 Start simple:
 
-User
+         User
 
            |
 
@@ -235,9 +242,9 @@ User
 
      ↓         ↓
 
-Local DB    Network
+    Local DB    Network
 
- Room       Retrofit
+     Room       Retrofit
 
            |
 
