@@ -110,9 +110,7 @@ Are we designing only Android client?
 Or complete system including backend?
 
 For mobile interviews, focus mainly on:
-Android Application Architecture
-
-while understanding backend dependencies.
+Android Application Architecture while understanding backend dependencies.
 
 ---
 
