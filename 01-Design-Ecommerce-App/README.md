@@ -1,5 +1,7 @@
 # 🛒 HLD — Design E-Commerce App (Android)
 
+"(E-Commerce Apps like Amazon, Flipkart, Walmart, eBay, Myntra, Meesho, Shopify, Etsy, Alibaba, Target)"
+
 > Topic #1 in the HLD practice series. Follows the fixed 4-step framework: FR → NFR → Diagram → Explain.
 
 ---
@@ -168,5 +170,3 @@
 > Browse = Room cache → Redis cache → DB (speed). Checkout = Cart → Order → Payment → Notify (consistency).
 
 ---
-
-**Status:** ✔️ Completed — Topic #1 of the HLD series.
