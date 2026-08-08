@@ -203,6 +203,10 @@ Reliable network handling
 
 # 4️⃣ Draw HLD Using Excalidraw
 
+Rule: Boxes = components. Arrows = direction of data flow. Numbers = order of steps.
+
+Base Android client structure (start here, every time)
+
 This is the most important part.
 
 The objective is not to draw a beautiful diagram.
