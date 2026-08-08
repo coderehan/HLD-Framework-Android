@@ -203,7 +203,7 @@ Reliable network handling
 
 # 4️⃣ Draw HLD Using Excalidraw
 
-Exclidraw Link: https://excalidraw.com/
+Excalidraw Link: https://excalidraw.com/
 
 Rule: Boxes = components. Arrows = direction of data flow. Numbers = order of steps.
 
